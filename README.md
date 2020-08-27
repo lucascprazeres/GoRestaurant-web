@@ -1,5 +1,5 @@
 <h1 align=center>
-  :spaghetti: GoRestaurant :spaghetti:
+  :spaghetti: GoRestaurant Web:spaghetti:
 </h1>
 
 <h2 align=center>
@@ -19,9 +19,9 @@
 <h2>👨‍💻 Tecnologias utilizadas</h2>
 
 <ul>
-  <li>React Native</li>
+  <li>ReactJS</li>
   <li>TypeScript</li>
-  <li>react-nativigation/native</li>
+  <li>react-router-dom</li>
   <li>styled-components</li>
   <li>axios</li>
 </ul>
